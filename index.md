@@ -56,7 +56,7 @@ Supabase와 GitHub는 해외 회사라 관리를 위해 해외에서 접근할 �
 - 앱 안에서 프로필을 언제든 보고 고칠 수 있습니다.
 - 그룹마다 내 일정을 얼마나 보여 줄지(자세히, 일정 있음만, 안 보이기) 정하고, 일정마다 '일정 있음'으로만 보일 사람을 고를 수 있습니다.
 - 앱 안에서 그룹별 내 데이터 삭제, 계정 전체 삭제를 할 수 있습니다.
-- 앱을 쓸 수 없을 때는 아래 연락처로 삭제를 요청할 수 있습니다. 자세한 방법: https://hyobin0910.github.io/harusai-policy/delete-account.html
+- 앱을 쓸 수 없을 때는 아래 연락처로 삭제를 요청할 수 있습니다. 자세한 방법: https://harusai-app.github.io/policy/delete-account.html
 
 ## 5. 지키는 방법
 
